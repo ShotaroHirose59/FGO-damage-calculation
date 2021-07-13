@@ -90,7 +90,6 @@
 </template>
 
 <script>
-import '@fortawesome/fontawesome-free/css/all.css'
 export default {
   data() {
     return {
@@ -149,3 +148,4 @@ a {
   color: white;
 }
 </style>
+
